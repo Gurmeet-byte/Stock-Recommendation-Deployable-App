@@ -6,4 +6,6 @@ yfinance
 joblib
 matplotlib
 plotly
+xgboost
 pip>=25.3
+
